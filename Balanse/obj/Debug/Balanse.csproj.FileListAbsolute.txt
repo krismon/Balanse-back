@@ -1,0 +1,30 @@
+c:\users\nicho\documents\visual studio 2015\Projects\Balanse\Balanse\bin\Debug\Balanse.exe.config
+c:\users\nicho\documents\visual studio 2015\Projects\Balanse\Balanse\bin\Debug\Balanse.exe
+c:\users\nicho\documents\visual studio 2015\Projects\Balanse\Balanse\bin\Debug\Balanse.pdb
+c:\users\nicho\documents\visual studio 2015\Projects\Balanse\Balanse\obj\Debug\Balanse.csprojResolveAssemblyReference.cache
+c:\users\nicho\documents\visual studio 2015\Projects\Balanse\Balanse\obj\Debug\Balanse.Form_LogIn.resources
+c:\users\nicho\documents\visual studio 2015\Projects\Balanse\Balanse\obj\Debug\Balanse.Properties.Resources.resources
+c:\users\nicho\documents\visual studio 2015\Projects\Balanse\Balanse\obj\Debug\Balanse.csproj.GenerateResource.Cache
+c:\users\nicho\documents\visual studio 2015\Projects\Balanse\Balanse\obj\Debug\Balanse.exe
+c:\users\nicho\documents\visual studio 2015\Projects\Balanse\Balanse\obj\Debug\Balanse.pdb
+C:\Users\nicho\Documents\Visual Studio 2015\Projects\Balanse\Balanse\obj\Debug\Balanse.Form_Balanse.resources
+C:\Users\nicho\Documents\Visual Studio 2015\Projects\Balanse\Balanse\bin\Debug\System.Data.SQLite.dll
+C:\Users\nicho\Documents\Visual Studio 2015\Projects\Balanse\Balanse\bin\Debug\System.Data.SQLite.xml
+C:\Users\Krismon\Desktop\Balanse\Balanse\bin\Debug\Balanse.exe.config
+C:\Users\Krismon\Desktop\Balanse\Balanse\obj\Debug\Balanse.exe
+C:\Users\Krismon\Desktop\Balanse\Balanse\obj\Debug\Balanse.pdb
+C:\Users\Krismon\Desktop\Balanse\Balanse\bin\Debug\Balanse.exe
+C:\Users\Krismon\Desktop\Balanse\Balanse\bin\Debug\Balanse.pdb
+C:\Users\Krismon\Desktop\Balanse\Balanse\bin\Debug\EntityFramework.dll
+C:\Users\Krismon\Desktop\Balanse\Balanse\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Krismon\Desktop\Balanse\Balanse\bin\Debug\System.Data.SQLite.dll
+C:\Users\Krismon\Desktop\Balanse\Balanse\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Krismon\Desktop\Balanse\Balanse\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Krismon\Desktop\Balanse\Balanse\bin\Debug\EntityFramework.xml
+C:\Users\Krismon\Desktop\Balanse\Balanse\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Krismon\Desktop\Balanse\Balanse\bin\Debug\System.Data.SQLite.xml
+C:\Users\Krismon\Desktop\Balanse\Balanse\obj\Debug\Balanse.csprojResolveAssemblyReference.cache
+C:\Users\Krismon\Desktop\Balanse\Balanse\obj\Debug\Balanse.Form_Balanse.resources
+C:\Users\Krismon\Desktop\Balanse\Balanse\obj\Debug\Balanse.Form_LogIn.resources
+C:\Users\Krismon\Desktop\Balanse\Balanse\obj\Debug\Balanse.Properties.Resources.resources
+C:\Users\Krismon\Desktop\Balanse\Balanse\obj\Debug\Balanse.csproj.GenerateResource.Cache
